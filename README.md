@@ -5,5 +5,5 @@ para correr el juego de deben de seguir las siguientes instrucciones
  cd game
  python mian.py
 ```
-
+# cargue de archivos a linux
 
